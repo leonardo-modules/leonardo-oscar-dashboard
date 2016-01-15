@@ -1,0 +1,5 @@
+[run]
+source = leonardo_oscar_dashboard
+omit =
+    *migrations*
+    leonardo_oscar_dashboard/__init__.py
